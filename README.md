@@ -1,2 +1,2 @@
-# Advanced-LinkedList-Algorithms (Fast and Slow Pointers)
+# Advanced-LinkedLists-Algorithms (Fast and Slow Pointers)
 Advanced LinkedList Algorithms
